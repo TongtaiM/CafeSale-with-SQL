@@ -8,7 +8,7 @@ reference https://datayolk.net/data/cafe-sale-analysis-project/
 Thanks for the practice.
 
 ## about This practice
-In this we have created data about cafe sale which 3 table and we have to answer question from data yolk
+we have created data about cafe sale which 3 table and we have to answer question from data yolk
 
 ### Question
 1. Calculate total_Sales of each item order by id
